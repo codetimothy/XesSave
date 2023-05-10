@@ -27,3 +27,4 @@ const likeevent = document.querySelector('.like')
 ```
 
 我的第一个程序，做的肯定不大好。
+(然后我做着做着发现我没保存，废掉了。)
